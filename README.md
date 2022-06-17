@@ -10,9 +10,9 @@ Terraform is an open source infrastructure as code tool created by HashiCorp. It
 <h2> Terraform Installation </h2>
 To Install Terraform: https://learn.hashicorp.com/tutorials/terraform/install-cli 
 
-<h2> To start terraform configuration for AWS, Use below command from terminal </h2>
+<h2> To start terraform configuration for AWS, Use below command from terminal And provide access key and secret key </h2>
 $ aws configure
-And provide access key and secret key
+
 <h2> Terraform common command: </h2> 
 	$ terraform init  ==> repare your working directory for other command <br />
 	$ terraform plan ==> Show changes required by the current configuration <br />
