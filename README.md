@@ -12,6 +12,7 @@ To Install Terraform: https://learn.hashicorp.com/tutorials/terraform/install-cl
 
 <h2> To start terraform configuration for AWS </h2>
 Use below command from terminal And provide access key and secret key
+
 $ aws configure
 
 <h2> Terraform common command: </h2> 
