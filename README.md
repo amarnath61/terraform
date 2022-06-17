@@ -6,6 +6,13 @@ Terraform is an open source infrastructure as code tool created by HashiCorp. It
 * Terraform supports a number of Cloud infrastructure provider such as Amazon Web Services, Microsoft Azure, Google Cloud Platform, Oracle cloud, Open stack, Digital Ocean, VMware vSphere.....any more more... 
 
 * Terraform is a tool for building , changing and versioning infrasctucture safely and efficiently
+
+<h2> Terraform Installation </h2>
+To Install Terraform: https://learn.hashicorp.com/tutorials/terraform/install-cli 
+
+<h2> To start terraform configuration for AWS, Use below command from terminal </h2>
+$ aws configure
+And provide access key and secret key
 <h2> Terraform common command: </h2> 
 	$ terraform init  ==> repare your working directory for other command <br />
 	$ terraform plan ==> Show changes required by the current configuration <br />
